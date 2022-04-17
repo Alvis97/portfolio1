@@ -1,0 +1,371 @@
+body{
+  background-color: #FFFDDE;
+}
+
+
+p{
+  font-family: 'Amiri', serif;
+  letter-spacing: 2px;
+}
+
+div{
+
+  box-shadow: 7px 15px 15px #D0AF84;
+
+}
+
+h5{
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 3px;
+  top: 420%;
+  left:0%;
+  width: 100%;
+  padding: 10px 15px;
+  background-color: #D0AF84;
+  font-family: 'Amiri', serif;
+}
+
+.back-to-travel{
+  position: fixed;
+  background-color: #AFA939;
+  font-size: 25px;
+  padding: 35px 35px;
+  top:10%;
+  left:0;
+  font-family: 'BIZ UDGothic', sans-serif;
+  border-radius: 2%;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 3px;
+  z-index: 1;
+}
+
+.back-to-travel:hover{
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+
+.hostel-beach{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.hostel-beach-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.hostel-beach-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.palms-me{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:34.25%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.palms-me-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.palms-me-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.bäck{
+  height: 490px;
+  width: 430px;
+  position: absolute;
+  top: 5%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.bäck-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.surf{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 86.5%;
+  right:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.surf-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.surf-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
+
+.road{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.road-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+.stone{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.stone-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.stone-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+
+.cliff{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.cliff-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+.klippa{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.klippa-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.klippa-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.tarzan{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 168.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.tarzan-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.tarzan-text{
+  position: absolute;
+  bottom:9%;
+  right:7%;
+}
+
+.hammock{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.hammock-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.hammock-text{
+  position: absolute;
+  bottom:18%;
+  right:7%;
+
+}
+
+.forest{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left:36%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.forest-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.plane{
+  height: 490px;
+  width: 400px;
+  position: absolute;
+  top: 251%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.plane-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.plane-text{
+  position: absolute;
+  bottom:18%;
+  right:8%;
+}
+
+.manilla{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 334%;
+  left:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.manilla-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.manilla-text{
+  position: absolute;
+  bottom:18%;
+  right:8%;
+}
+
+
+.small-palm{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 334%;
+  left:45%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.small-palm-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+
+
+.tucktuck{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 334%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.tucktuck-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.tucktuck-text{
+  position: absolute;
+  bottom:9%;
+  right:8%;
+}

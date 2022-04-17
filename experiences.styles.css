@@ -1,0 +1,127 @@
+html {
+  background: no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+body{
+  margin: 0;
+  background-color:#F0ECE3;
+}
+
+hr{
+  margin:0 0 0 23px;
+  width: 90%;
+  position: absolute;
+  text-align: center;
+}
+
+p{
+  position: absolute;
+  opacity: 1;
+  z-index: 1;
+  width: 90%;
+    font-family: 'Amiri', serif;
+    top: 17%;
+    left:4%;
+}
+
+h1{
+  position: absolute;
+  background-color:  #AFA939;
+    font-family: 'BIZ UDGothic', sans-serif;
+    top: 2%;
+    left:5%;
+    letter-spacing: 5px;
+    padding: 0 10px;
+    font-size: 38px;
+    opacity: 1;
+    z-index: 1;
+}
+
+.links-sidor{
+  color: white;
+  font-family: 'BIZ UDGothic', sans-serif;
+  text-decoration: none;
+  background-color: #DFD3C3;
+}
+
+.links-sidor:hover{
+  color: white;
+  font-family: 'BIZ UDGothic', sans-serif;
+  text-decoration: underline;
+  background-color:  #DFD3C3;
+}
+
+.bootcamp{
+    font-family: 'BIZ UDGothic', sans-serif;
+  color: black;
+  text-decoration: none;
+}
+
+.bootcamp:hover{
+  background-color:  #AFA939;
+  font-family: 'BIZ UDGothic', sans-serif;
+}
+
+.links{
+  position: absolute;
+  height: 30%;
+  width: 40%;
+  top:20%;
+  right:8%;
+  color: white;
+  line-height: 120px;
+  font-size: 32px;
+}
+
+.ruta{
+  background-color: white;
+  opacity: 0.5;
+  z-index: ;
+  position: absolute;
+  width: 40%;
+  height: 62%;
+  top: 15%;
+  left:5%;
+}
+
+.experiences{
+  z-index: 1;
+  position: absolute;
+  width: 40%;
+  height: 70%;
+  top: 15%;
+  left:5%;
+}
+
+.turtle{
+  position: absolute;
+  top:0%;
+  left:27%;
+  padding-bottom: 10%;
+}
+
+.meny{
+  position: absolute;
+  width: 35%;
+  padding: 10px 0;
+  background-color: #AFA939;
+  top: 2%;
+  right: 0%;
+  text-align: center;
+}
+
+.meny-tags{
+  color: white;
+  font-family: 'BIZ UDGothic', sans-serif;
+  text-decoration: none;
+  margin: 0 5px;
+  letter-spacing: 3px;
+}
+
+.meny-tags:hover{
+  text-decoration: underline overline;
+
+}

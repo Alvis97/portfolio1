@@ -1,0 +1,354 @@
+body {
+  background-color: #FFFDDE;
+}
+
+div {
+  box-shadow: 7px 15px 15px #D0AF84;
+}
+
+h5 {
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 3px;
+  top: 500%;
+  left: 0%;
+  width: 100%;
+  padding: 10px 15px;
+  background-color: #D0AF84;
+  font-family: 'Amiri', serif;
+}
+
+p {
+  font-family: 'Amiri', serif;
+  letter-spacing: 2px;
+}
+
+
+/*BACK TO TRAVEL BOTTOM/**/
+.back-to-travel {
+  position: fixed;
+  background-color: #AFA939;
+  font-size: 25px;
+  padding: 35px 35px;
+  top: 10%;
+  left: 0;
+  font-family: 'BIZ UDGothic', sans-serif;
+  border-radius: 2%;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 3px;
+  z-index: 1;
+}
+
+.back-to-travel:hover {
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+
+/*IMAGES FROM UPPER LEFT AND DOWN/**/
+.tågräls {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.tågräls-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.street {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left: 34.25%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.street-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.street-text {
+  position: absolute;
+  bottom: 18%;
+  right: 5%;
+}
+
+.oxe {
+  height: 490px;
+  width: 430px;
+  position: absolute;
+  top: 5%;
+  right: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.oxe-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.grey {
+  height: 490px;
+  width: 420px;
+  position: absolute;
+  top: 86.5%;
+  right: 35%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.grey-img {
+  margin: 30px 15px;
+  border-radius: 2%;
+}
+
+.grey-text {
+  position: absolute;
+  bottom: 18%;
+  right: 7%;
+}
+
+.sleep {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  left: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.sleep-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.newyear {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  right: 2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.newyear-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.newyear-text {
+  position: absolute;
+  bottom: 18%;
+  right: 5%;
+}
+
+.walk {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left: 33.9%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.walk-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.rise {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left: 2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.rise-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.rise-text {
+  position: absolute;
+  bottom: 18%;
+  right: 7%;
+  ;
+}
+
+.village {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  right: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.village-img {
+  margin: 30px 15px;
+  border-radius: 2%;
+}
+
+.village-text {
+  position: absolute;
+  bottom: 19%;
+  right: 7%;
+}
+
+.boathouse {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.boathouse-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.dragon {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left: 33.9%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.dragon-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.grafitti {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  right: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.grafitti-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.grafitti-text {
+  position: absolute;
+  bottom: 18%;
+  right: 5%;
+}
+
+.pool {
+  height: 490px;
+  width: 400px;
+  position: absolute;
+  top: 334%;
+  left: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.pool-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.hands {
+  height: 490px;
+  width: 441px;
+  position: absolute;
+  top: 334%;
+  left: 32.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.hands-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.hands-text {
+  position: absolute;
+  bottom: 18%;
+  right: 5%;
+}
+
+.beach {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 334%;
+  right: 1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.beach-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.lykta {
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 417%;
+  left: 2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.lykta-img {
+  margin: 45px 20px;
+  border-radius: 2%;
+}
+
+.lykta-text {
+  position: absolute;
+  bottom: 19%;
+  right: 7%;
+}

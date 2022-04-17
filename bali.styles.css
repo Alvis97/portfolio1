@@ -1,0 +1,605 @@
+body{
+  background-color: #FFFDDE;
+}
+
+p{
+  font-family: 'Amiri', serif;
+  letter-spacing: 2px;
+}
+
+div{
+
+  box-shadow: 7px 15px 15px #D0AF84;
+
+}
+
+h5{
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 3px;
+  top: 750%;
+  left:0%;
+  width: 100%;
+  padding: 10px 15px;
+  background-color: #D0AF84;
+  font-family: 'Amiri', serif;
+}
+
+.back-to-travel{
+  position: fixed;
+  background-color: #AFA939;
+  font-size: 25px;
+  padding: 35px 35px;
+  top:10%;
+  left:0;
+  font-family: 'BIZ UDGothic', sans-serif;
+  border-radius: 2%;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 3px;
+  z-index: 1;
+}
+
+.back-to-travel:hover{
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.sunset{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.sunset-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.drak-ön{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:34.25%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.drak-ön-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.drak-ön-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.clean-tank{
+  height: 490px;
+  width: 430px;
+  position: absolute;
+  top: 5%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.clean-tank-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.apa-el{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 86.5%;
+  right:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.apa-el-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.apa-el-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
+
+.sleepy-dogs{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.sleepy-dogs-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+.holding-turtle{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.holding-turtle-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.holding-turtle-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+
+.turtle-ocean{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.turtle-ocean-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+.xenia{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.xenia-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.xenia-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.breakfast{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 168.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.breakfast-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.breakfast-text{
+  position: absolute;
+  bottom:9%;
+  right:7%;
+}
+
+.big-turtle{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.big-turtle-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.car{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left:33.9%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.car-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.newborn{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.newborn-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.newborn-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.pig{
+  height: 490px;
+  width: 400px;
+  position: absolute;
+  top: 334%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.pig-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.green-lion{
+  height: 490px;
+  width: 441px;
+  position: absolute;
+  top: 334%;
+  left:32.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.green-lion-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.green-lion-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.feeding-turtle{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 334%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.feeding-turtle-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.cangu{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 417%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.cangu-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.text-cangu{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.coconut{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 417%;
+  left:38%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.coconut-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.surf-camp{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 417%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.surf-camp-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.surf-camp-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.sipping{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 499%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.sipping-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.skate{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 499%;
+  left:26%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.skate-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.skate-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
+
+.dog{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 499%;
+  left:50.7%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.dog-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.utsikt{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 499%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.utsikt-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.wifi{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 582%;
+  right:33.9%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.wifi-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.wifi-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.blue-ocean{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 582%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.blue-ocean-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.surf{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 582%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.surf-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.palmtree{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 665%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.palmtree-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.pink-sunset{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 665%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.pink-sunset-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.pink-sunset-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+
+}
+
+.rosa{
+  height: 490px;
+  width: 335px;
+  position: absolute;
+  top: 665%;
+  right:37.8%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.rosa-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.rosa-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
