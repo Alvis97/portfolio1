@@ -1,0 +1,136 @@
+html {
+  background: no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0px;
+  text-align: right;
+}
+
+img {
+  position: relative;
+  margin: 0;
+}
+
+h1 {
+  background-color: #AFA939;
+  width: 45px;
+  font-size: 30px;
+  margin: 7px 0;
+  font-family: 'Amiri', serif;
+}
+
+h4 {
+  font-size: 15px;
+  margin: 2px 0;
+    font-family: 'Amiri', serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+h5{
+  position: absolute;
+font-size: 12px;
+width: 5%;
+top: 1%;
+left:0%;
+background-color: #AFA939;
+padding: 1% 5% 1% 0.7%;
+text-align: left;
+font-family: 'BIZ UDGothic', sans-serif;
+letter-spacing: 4px;
+
+}
+
+.intro-text {
+  font-size: 15px;
+  margin: 10px 0 12px 0;
+  letter-spacing: 2px;
+  font-family: 'Amiri', serif;
+}
+
+.udemy{
+  text-decoration: none;
+  color: black;
+}
+
+.udemy:hover{
+  text-decoration: none;
+  background-color: #AFA939;
+}
+
+/* länkarna tiil höger/**/
+.pages-links {
+  font-size: 50px;
+  text-decoration: none;
+  color: white;
+  letter-spacing: 10px;
+  line-height: 65px;
+  font-family: 'Amiri', serif;
+}
+
+.pages {
+  bottom: 10%;
+  right: 5%;
+  position: absolute;
+  width: 40%;
+  text-transform: full-width;
+  font-family: 'Amiri', serif;
+  line-height: 70px;
+}
+
+.pages-links:hover {
+  font-size: 60px;
+  background-color:;
+  text-decoration:
+}
+
+.small-pages {
+  bottom: 30%;
+  right: 10%;
+  width: 20%;
+}
+
+/*välkomstexten/**/
+.intro {
+  top: 30%;
+  left: 10%;
+  position: absolute;
+  color: black;
+  text-align: left;
+  width: 40%;
+}
+
+/*contact links to facebook osv.../**/
+.contact-block {
+  width: 20%;
+  left: 5%;
+  bottom: 25%;
+  position: absolute;
+  color: #838383;
+  display: inline;
+  text-align: center;
+  font-family: 'BIZ UDGothic', sans-serif;
+}
+
+.contact-links {
+  color: black;
+  text-decoration: none;
+}
+
+
+
+.header-text {
+  font-size: 11px;
+  width: 15%;
+  top: 6.5%;
+  left: 2.7%;
+  font-family: 'BIZ UDGothic', sans-serif;
+  position: absolute;
+  color: black;
+  text-align: center;
+  letter-spacing: 2px;
+}

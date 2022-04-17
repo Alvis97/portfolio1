@@ -1,0 +1,88 @@
+html {
+  background: no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+body{
+  margin: 0;
+
+
+}
+
+hr{
+  margin:0 0 0 23px;
+  width: 90%;
+  position: absolute;
+  text-align: center;
+}
+
+
+
+h1{
+  font-family: 'BIZ UDGothic', sans-serif;
+  letter-spacing: 3px;
+  background-color: #AFA939;
+  width:50%;
+  z-index: 1;
+
+}
+
+p{
+    font-family: 'Amiri', serif;
+}
+
+.meny{
+  position: absolute;
+  width: 35%;
+  padding: 10px 0;
+  background-color: #AFA939;
+  top: 2%;
+  right: 0%;
+  text-align: center;
+}
+
+.meny-tags{
+  color: white;
+  font-family: 'BIZ UDGothic', sans-serif;
+  text-decoration: none;
+  margin: 0 5px;
+  letter-spacing: 3px;
+}
+
+.meny-tags:hover{
+  text-decoration: underline overline;
+
+}
+
+.contact-block{
+  position: absolute;
+  bottom:22%;
+  right:51%;
+}
+
+.follow-me{
+  font-size: 14px;
+    font-family: 'BIZ UDGothic', sans-serif;
+    letter-spacing: 2px;
+}
+
+
+
+
+.personal{
+  position: absolute;
+  height: 40%;
+  width: 40%;
+  top:40%;
+  left:40%;
+}
+
+
+.meego{
+  position: absolute;
+  z-index: 1;
+  top: 10%;
+  left:10%;
+}
