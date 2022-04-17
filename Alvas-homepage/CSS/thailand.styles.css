@@ -1,0 +1,413 @@
+body{
+  background-color: #FFFDDE;
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  font-family: 'Amiri', serif;
+  letter-spacing: 2px;
+}
+
+div{
+
+  box-shadow: 7px 15px 15px #D0AF84;
+
+}
+h5{
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 3px;
+  top: 500%;
+  left:0%;
+  width: 100%;
+  padding: 10px 15px;
+  background-color: #D0AF84;
+  font-family: 'Amiri', serif;
+}
+
+
+.back-to-travel{
+  position: fixed;
+  background-color: #AFA939;
+  font-size: 25px;
+  padding: 35px 35px;
+  top:10%;
+  left:0;
+  font-family: 'BIZ UDGothic', sans-serif;
+  border-radius: 2%;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 3px;
+  z-index: 1;
+}
+
+.back-to-travel:hover{
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+
+.phuket-båt{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.phuket-båt-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.phuket-strand{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:34.25%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.phuket-strand-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.phuket-strand-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.dinner{
+  height: 490px;
+  width: 430px;
+  position: absolute;
+  top: 5%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.dinner-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.hostel{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 86.5%;
+  right:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.hostel-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.hostel-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
+
+.mura{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.mura-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+.angora{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.angora-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.angora-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+
+.groupie{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.groupie-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+.röd{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 168.5%;
+  left:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.röd-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.röd-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.tucktuck{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 168.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.tucktuck-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.tucktuck-text{
+  position: absolute;
+  bottom:9%;
+  right:7%;
+}
+
+.bäbis{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.bäbis-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.föreläsning{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  left:33.9%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.föreläsning-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.ass{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 251%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.ass-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.ass-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.bus{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 334%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.bus-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.nomnom{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 334%;
+  left:35%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.nomnom-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.nomnom-text{
+  position: absolute;
+  bottom:4%;
+  right:5%;
+}
+
+.dive{
+  height: 490px;
+  width: 470px;
+  position: absolute;
+  top: 334%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.dive-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.white{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 417%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.white-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.white-cangu{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.gear{
+  height: 490px;
+  width: 500px;
+  position: absolute;
+  top: 417%;
+  left:28%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.gear-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.swim{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 417%;
+  left:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.swim-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.swim-text{
+  position: absolute;
+  bottom:4%;
+  right:5%;
+}

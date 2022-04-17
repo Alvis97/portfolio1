@@ -1,0 +1,200 @@
+body{
+    background-color: #FFFDDE;
+}
+
+div{
+
+  box-shadow: 7px 15px 15px #D0AF84;
+
+}
+
+h5{
+  position: absolute;
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 3px;
+  top: 250%;
+  left:0%;
+  width: 100%;
+  padding: 10px 15px;
+  background-color: #D0AF84;
+  font-family: 'Amiri', serif;
+}
+
+p{
+  font-family: 'Amiri', serif;
+  letter-spacing: 2px;
+}
+
+.back-to-travel{
+  position: fixed;
+  background-color: #AFA939;
+  font-size: 25px;
+  padding: 35px 35px;
+  top:10%;
+  left:0;
+  font-family: 'BIZ UDGothic', sans-serif;
+  border-radius: 2%;
+  color: white;
+  text-decoration: none;
+  letter-spacing: 3px;
+  z-index: 1;
+}
+
+.back-to-travel:hover{
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+
+.vattenfall{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.vattenfall-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.vattenfall-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
+
+.tea{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 5%;
+  right:38.5%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.tea-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.tea-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
+
+.peace{
+  height: 490px;
+  width: 320px;
+  position: absolute;
+  top: 86.5%;
+  right:2%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.peace-img{
+  margin:30px 15px;
+  border-radius: 2%;
+}
+
+.peace-text{
+  position: absolute;
+  bottom:8%;
+  right:7%;
+}
+
+
+.bro{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 5%;
+  right:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.bro-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+
+
+
+.vattenfall-träd{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.vattenfall-träd-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+
+.turkost{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 86.5%;
+  left:36%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.turkost-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+
+
+.bar{
+  height: 490px;
+  width: 440px;
+  position: absolute;
+  top: 170%;
+  left:1%;
+  background-color: white;
+  text-align: center;
+  border-radius: 2%;
+
+}
+
+.bar-img{
+  margin:45px 20px;
+  border-radius: 2%;
+}
+
+.bar-text{
+  position: absolute;
+  bottom:18%;
+  right:5%;
+}
