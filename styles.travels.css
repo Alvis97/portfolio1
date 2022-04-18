@@ -1,5 +1,5 @@
 html {
-  background: url("/Users/alvajonsson/Desktop/namnlös mapp/bilder/travel/bali/Foto 2019-03-17 10 43 49 (kopia).jpg") no-repeat center center fixed;
+  background: url("travel/bali/Foto 2019-03-17 10 43 49 (kopia).jpg") no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   overflow: hidden;
