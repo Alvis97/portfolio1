@@ -46,7 +46,7 @@ letter-spacing: 4px;
 }
 
 .intro-text {
-  font-size: 15px;
+  font-size: 0.9375rem;
   margin: 10px 0 12px 0;
   letter-spacing: 2px;
   font-family: 'Amiri', serif;
@@ -64,11 +64,11 @@ letter-spacing: 4px;
 
 /* länkarna tiil höger/**/
 .pages-links {
-  font-size: 50px;
+  font-size: 3.125rem;
   text-decoration: none;
   color: white;
   letter-spacing: 10px;
-  line-height: 65px;
+  line-height: 4.0625;
   font-family: 'Amiri', serif;
 }
 
@@ -79,11 +79,11 @@ letter-spacing: 4px;
   width: 40%;
   text-transform: full-width;
   font-family: 'Amiri', serif;
-  line-height: 70px;
+  line-height: 4.375rem;
 }
 
 .pages-links:hover {
-  font-size: 60px;
+  font-size: 3.75rem;
   background-color:;
   text-decoration:
 }
@@ -124,7 +124,7 @@ letter-spacing: 4px;
 
 
 .header-text {
-  font-size: 11px;
+  font-size: 0.6875rem;
   width: 15%;
   top: 6.5%;
   left: 2.7%;
