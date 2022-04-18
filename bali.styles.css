@@ -16,7 +16,7 @@ div{
 h5{
   position: absolute;
   text-align: center;
-  font-size: 15px;
+  font-size: 0.9375rem;
   letter-spacing: 3px;
   top: 750%;
   left:0%;
@@ -29,7 +29,7 @@ h5{
 .back-to-travel{
   position: fixed;
   background-color: #AFA939;
-  font-size: 25px;
+  font-size: 1.5625rem;
   padding: 35px 35px;
   top:10%;
   left:0;
@@ -43,7 +43,7 @@ h5{
 
 .back-to-travel:hover{
   text-decoration: underline;
-  font-size: 25px;
+  font-size: 1.5625rem;
 }
 
 .sunset{
