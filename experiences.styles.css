@@ -35,7 +35,7 @@ h1{
     left:5%;
     letter-spacing: 5px;
     padding: 0 10px;
-    font-size: 38px;
+    font-size: 2.375rem;
     opacity: 1;
     z-index: 1;
 }
@@ -72,8 +72,8 @@ h1{
   top:20%;
   right:8%;
   color: white;
-  line-height: 120px;
-  font-size: 32px;
+  line-height: 7.5rem;
+  font-size: 2rem;
 }
 
 .ruta{
